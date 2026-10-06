@@ -1,5 +1,9 @@
 Timothy Horoba A00080286
 
+PARTNER COLLAB 
+
+Karl Greer A00079744
+
 # Lab Notes
 
 ## What We Did Today
